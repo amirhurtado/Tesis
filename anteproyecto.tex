@@ -144,6 +144,86 @@ Desarrollar una extensión de software para Visual Studio Code que simule de for
 \end{enumerate}
 
 
+
+% --- METODOLOGÍA ---
+\section{Metodología}
+
+\subsection{Marco Metodológico}
+Para el desarrollo de este proyecto de aplicación, se empleará una Metodología de Desarrollo de Software Basada en Prototipos. Esta metodología es ideal para proyectos donde la interfaz de usuario y la experiencia de interacción son críticas para el éxito, como es el caso de esta herramienta educativa. El enfoque se centra en construir versiones funcionales tempranas (prototipos) que pueden ser evaluadas por los usuarios finales (estudiantes y docentes) para validar y refinar los requisitos desde el inicio del proceso, evitando así errores y malentendidos en fases posteriores del desarrollo (\cite{yang2019}).
+
+El proceso se dividirá en cuatro fases principales, que se alinean directamente con los objetivos específicos del proyecto:
+
+\subsubsection{Fase 1: Definición y Especificación}
+En esta etapa inicial, se realizará el levantamiento y la documentación de los requisitos. Las actividades incluyen:
+\begin{itemize}
+    \item \textbf{Estudio conceptual:} Se analizarán los temas clave de las arquitecturas RISC-V monociclo y segmentada que presentan mayor dificultad, basándose en la bibliografia de la asignatura y los resultados de la encuesta inicial.
+    \item \textbf{Documentación:} Se elaborará el documento de especificación de requisitos, detallando las funcionalidades (ej. carga de código, ejecución paso a paso) y los requisitos no funcionales (ej. rendimiento, diseño responsivo).
+\end{itemize}
+
+\subsubsection{Fase 2: Diseño y Prototipado}
+Con los requisitos claros, se procederá a diseñar la solución.
+\begin{itemize}
+    \item \textbf{Diseño de Arquitectura:} Se definirá la estructura interna de la extensión, los componentes de software y cómo se comunicarán entre sí.
+    \item \textbf{Diseño de Interfaz (UI/UX):} Se crearán los prototipos visuales y de interacción (mockups) de la herramienta utilizando software de diseño como Figma. Estos prototipos se centrarán en intentar tener una experiencia intuitiva.
+\end{itemize}
+
+\subsubsection{Fase 3: Construcción e Implementación}
+Esta es la fase de codificación.
+\begin{itemize}
+    \item \textbf{Configuración del entorno:} Se preparará el ambiente de desarrollo para extensiones de Visual Studio Code.
+    \item \textbf{Desarrollo incremental:} Se construirán las funcionalidades del simulador de forma modular, empezando por el núcleo (la simulación del procesador) y luego la capa de visualización.
+\end{itemize}
+
+\subsubsection{Fase 4: Validación y Evaluación}
+En esta última fase se verificará que la herramienta cumple con lo esperado.
+\begin{itemize}
+    \item \textbf{Descripción de la unidad de muestreo:} La "unidad de muestreo" serán los participantes de las pruebas piloto. Se seleccionará un grupo de estudiantes que estén cursando, y al menos un docente del área.
+    \item \textbf{Descripción del "tratamiento" y su aplicación:} El "tratamiento" será el uso guiado de la extensión de Visual Studio Code. A los participantes se les entregarán ejercicios prácticos y se les pedirá que utilicen el simulador para resolverlos.
+    \item \textbf{Información a registrar:} Se recolectará información cualitativa y cuantitativa a través de observación directa, encuestas de satisfacción y reporte de errores.
+    \item \textbf{Análisis de la información:} Los resultados de las pruebas se analizarán para identificar puntos de mejora en la herramienta y para redactar el informe final que valida el cumplimiento del proyecto.
+\end{itemize}
+
+\subsection{Actividades}
+A continuación, se desglosan las actividades principales derivadas de cada objetivo específico:
+\begin{itemize}
+    \item \textbf{Objetivo 1: Elaborar el documento de especificación de requisitos...}
+    \begin{itemize}
+        \item Actividad 1.1: Investigar y sintetizar los conceptos de RISC-V monociclo y segmentado más relevantes para la simulación.
+        \item Actividad 1.2: Redactar la primera versión del documento de requisitos funcionales y no funcionales.
+        \item Actividad 1.3: Validar el documento de requisitos con el director del proyecto.
+    \end{itemize}
+    \item \textbf{Objetivo 2: Diseñar la arquitectura de software...}
+    \begin{itemize}
+        \item Actividad 2.1: Crear el diagrama de la arquitectura de la extensión.
+        \item Actividad 2.2: Diseñar los mockups y el flujo de usuario de la interfaz gráfica.
+        \item Actividad 2.3: Documentar las decisiones de diseño.
+    \end{itemize}
+    \item \textbf{Objetivo 3: Construir los módulos funcionales...}
+    \begin{itemize}
+        \item Actividad 3.1: Desarrollar el motor de simulación para la arquitectura monociclo.
+        \item Actividad 3.2: Desarrollar el motor de simulación para la arquitectura segmentada.
+        \item Actividad 3.3: Implementar la interfaz gráfica y su conexión con el motor de simulación.
+    \end{itemize}
+    \item \textbf{Objetivo 4: Ejecutar un plan de pruebas funcionales...}
+    \begin{itemize}
+        \item Actividad 4.1: Elaborar el plan de pruebas y los casos de uso para la prueba piloto.
+        \item Actividad 4.2: Seleccionar y convocar a los participantes para la prueba.
+        \item Actividad 4.3: Ejecutar las sesiones de la prueba piloto.
+        \item Actividad 4.4: Recolectar y analizar los resultados de las pruebas.
+        \item Actividad 4.5: Redactar el informe final de validación.
+    \end{itemize}
+\end{itemize}
+
+
+% --- APORTES DEL PROYECTO ---
+\section{Aportes del Proyecto}
+\begin{itemize}
+    \item \textbf{Software Funcional:} El principal aporte es la extensión para Visual Studio Code, una herramienta de software completamente funcional para la simulación gráfica e interactiva de un procesador RISC-V en sus arquitecturas monociclo y segmentada. Este software quedará a disposición del programa de Ingeniería de Sistemas y Computación para su uso libre en la asignatura de Arquitectura de Computadores.
+    \item \textbf{Documentación Técnica del Proyecto:} Se entregarán todos los documentos que respaldan el proceso de ingeniería de software realizado, los cuales incluyen: el Documento de Especificación de Requisitos, los Documentos de Diseño y el Informe de Pruebas y Validación.
+    \item \textbf{Manual de Usuario:} Se elaborará un documento guía que explique de manera clara y sencilla cómo instalar, configurar y utilizar la extensión de software, dirigido tanto a estudiantes como a docentes.
+\end{itemize}
+
+
 % --- MARCO REFERENCIAL ---
 \section{Marco Referencial}
 

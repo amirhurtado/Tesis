@@ -104,11 +104,14 @@ INPUT .\figura2.png
 INPUT .\figura2.png
 INPUT .\figura2.png
 INPUT .\figura2.png
+INPUT C:\Users\amirh\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\tcrm1200.tfm
 INPUT .\anteproyecto.bbl
 INPUT .\anteproyecto.bbl
 INPUT anteproyecto.bbl
 INPUT C:\Users\amirh\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmti12.tfm
 INPUT anteproyecto.aux
+INPUT C:\Users\amirh\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1200.pk
+INPUT C:\Users\amirh\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1200.pk
 INPUT C:\Users\amirh\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
 INPUT C:\Users\amirh\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
 INPUT C:\Users\amirh\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmcsc10.pfb

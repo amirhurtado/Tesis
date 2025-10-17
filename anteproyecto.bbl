@@ -64,4 +64,11 @@ K~Vollmar and P~Sanderson.
 \newblock In {\em Proceedings of the Thirty-Seventh SIGCSE Technical Symposium
   on Computer Science Education}, 2007.
 
+\bibitem{yang2019}
+Y~Yang, X~Li, Z~Liu, and W~Ke.
+\newblock {RM2PT: A tool for automated prototype generation from requirements
+  model}.
+\newblock In {\em Proceedings - 2019 IEEE/ACM 41st International Conference on
+  Software Engineering: Companion (ICSE-Companion 2019)}, 2019.
+
 \end{thebibliography}

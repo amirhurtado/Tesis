@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.10.17)  17 OCT 2025 14:48
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.10.17)  17 OCT 2025 14:56
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -204,7 +204,7 @@ Package pdftex.def Info: figura2.png  used on input line 97.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[3 <./figura1.png>] [4 <./figura2.png>] [5] [6] [7] (anteproyecto.bbl) [8] (anteproyecto.aux
+[3 <./figura1.png>] [4 <./figura2.png>] [5] [6] [7] [8] [9] [10] (anteproyecto.bbl) [11] (anteproyecto.aux
 LaTeX Info: Redefining \. on input line 8.
 LaTeX Info: Redefining \% on input line 8.
 )
@@ -214,17 +214,17 @@ L3 programming layer <2024-01-04>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 3530 strings out of 474486
- 59215 string characters out of 5743754
+ 3538 strings out of 474486
+ 59321 string characters out of 5743754
  1935542 words of memory out of 5000000
- 25799 multiletter control sequences out of 15000+600000
- 564649 words of font info for 58 fonts, out of 8000000 for 9000
+ 25806 multiletter control sequences out of 15000+600000
+ 564986 words of font info for 59 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  57i,6n,65p,859b,365s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/amirh/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/amirh/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/amirh/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/amirh/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/amirh/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/amirh/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on anteproyecto.pdf (10 pages, 448339 bytes).
+ <C:\Users\amirh\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk><C:/Users/amirh/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/amirh/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/amirh/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/amirh/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/amirh/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/amirh/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on anteproyecto.pdf (13 pages, 458633 bytes).
 PDF statistics:
- 70 PDF objects out of 1000 (max. 8388607)
+ 85 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
