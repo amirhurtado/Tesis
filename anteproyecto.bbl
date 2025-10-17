@@ -1,0 +1,94 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+Djordjevic%
+, Nikolic%
+, Tanja%
+\BCBL {}\ \BBA {} Milenkovi{\'c}%
+}{%
+Djordjevic%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2008}}%
+}]{%
+djordjevic2008}
+\APACinsertmetastar {%
+djordjevic2008}%
+\begin{APACrefauthors}%
+Djordjevic, J.%
+, Nikolic, B.%
+, Tanja, B.%
+\BCBL {}\ \BBA {} Milenkovi{\'c}, A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2008}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Cal2: Computer aided learning in computer architecture
+  laboratory}} {{Cal2: Computer aided learning in computer architecture
+  laboratory}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Computer Applications in Engineering
+  Education}{16}{3}{199--207}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Oztekin%
+, Temurtas%
+\BCBL {}\ \BBA {} Gulbag%
+}{%
+Oztekin%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2011}}%
+}]{%
+oztekin2011}
+\APACinsertmetastar {%
+oztekin2011}%
+\begin{APACrefauthors}%
+Oztekin, H.%
+, Temurtas, F.%
+\BCBL {}\ \BBA {} Gulbag, A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2011}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{A software-based interactive system on BZK.SAU.FPGA10.1
+  micro computer design for teaching computer architecture and organization}}
+  {{A software-based interactive system on BZK.SAU.FPGA10.1 micro computer
+  design for teaching computer architecture and organization}}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {ELECO 2011 - 7th International Conference on Electrical
+  and Electronics Engineering.} {Eleco 2011 - 7th international conference on
+  electrical and electronics engineering.}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Senske%
+}{%
+Senske%
+}{%
+{\protect \APACyear {2014}}%
+}]{%
+senske2014}
+\APACinsertmetastar {%
+senske2014}%
+\begin{APACrefauthors}%
+Senske, N.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2014}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Confronting the challenges of computational design
+  instruction}} {{Confronting the challenges of computational design
+  instruction}}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Rethinking Comprehensive Design: Speculative
+  Counterculture - Proceedings of the 19th International Conference on
+  Computer-Aided Architectural Design Research in Asia, CAADRIA 2014.}
+  {Rethinking comprehensive design: Speculative counterculture - proceedings of
+  the 19th international conference on computer-aided architectural design
+  research in asia, caadria 2014.}
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}

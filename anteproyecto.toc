@@ -2,6 +2,7 @@
 \contentsline {section}{\numberline {1}Introducción}{2}{}%
 \contentsline {section}{\numberline {2}Planteamiento del problema}{2}{}%
 \contentsline {subsection}{\numberline {2.1}Antecedentes (Contextualización del problema)}{2}{}%
-\contentsline {subsection}{\numberline {2.2}Causas (qué está causando el problema)}{2}{}%
+\contentsline {subsection}{\numberline {2.2}Causas (qué está causando el problema)}{3}{}%
 \contentsline {subsection}{\numberline {2.3}Definición del problema}{3}{}%
 \contentsline {subsection}{\numberline {2.4}Consecuencias (de no resolver el problema)}{4}{}%
+\contentsline {section}{Referencias}{5}{}%

@@ -1,6 +1,15 @@
 # Fdb version 4
-["pdflatex"] 1760728954.01559 "c:/Users/amirh/tesis/anteproyecto.tex" "anteproyecto.pdf" "anteproyecto" 1760728955.51745 0
-  "C:/Users/amirh/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1760727196 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
+["bibtex anteproyecto"] 1760729982.01672 "anteproyecto.aux" "anteproyecto.bbl" "anteproyecto" 1760729982.54461 2
+  "./referencias.bib" 1760729394 3235 d5678fc804d572f7500ceb248fdd662b ""
+  "C:/Users/amirh/AppData/Local/Programs/MiKTeX/bibtex/bst/apacite/apacite.bst" 1374952728 146156 9d7b79dbf9d91133318126032cff8c27 ""
+  "C:/Users/amirh/AppData/Local/Programs/MiKTeX/bibtex/bst/bibtex/plain.bst" 1291864736 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
+  "anteproyecto.aux" 1760729980 2250 0b2f69359729c2d8346c48d6c58d7526 "pdflatex"
+  (generated)
+  "anteproyecto.bbl"
+  "anteproyecto.blg"
+  (rewritten before read)
+["pdflatex"] 1760729979.30573 "c:/Users/amirh/tesis/anteproyecto.tex" "anteproyecto.pdf" "anteproyecto" 1760729982.54618 0
+  "C:/Users/amirh/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1760729703 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/amirh/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1760721571 24225047 5effeceff6ff7a572fb64ebd08da9df0 ""
   "C:/Users/amirh/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmbx12.tfm" 1136765053 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "C:/Users/amirh/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmcsc10.tfm" 1136765053 1300 63a6111ee6274895728663cf4b4e7e81 ""
@@ -14,10 +23,12 @@
   "C:/Users/amirh/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmsy10.tfm" 1136765053 1124 6c73e740cf17375f03eec0ee63599741 ""
   "C:/Users/amirh/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmsy6.tfm" 1136765053 1116 933a60c408fc0a863a92debe84b2d294 ""
   "C:/Users/amirh/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmsy8.tfm" 1136765053 1120 8b7d695260f3cff42e636090a8002094 ""
+  "C:/Users/amirh/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmti12.tfm" 1136765053 1484 ed72f8f5cf654cda15ecc8e32bfcbee5 ""
   "C:/Users/amirh/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1247596666 32080 340ef9bf63678554ee606688e7b5339d ""
   "C:/Users/amirh/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb" 1247596667 32001 6aeea3afe875097b1eb0da29acd61e28 ""
   "C:/Users/amirh/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1247596667 32722 d7379af29a190c3f453aba36302ff5a9 ""
   "C:/Users/amirh/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb" 1247596667 32726 39f0f9e62e84beb801509898a605dbd5 ""
+  "C:/Users/amirh/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb" 1247596667 36118 fad905eba93cff5bce1e185fe980a177 ""
   "C:/Users/amirh/AppData/Local/Programs/MiKTeX/tex/context/base/mkii/supp-pdf.mkii" 1580390158 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "C:/Users/amirh/AppData/Local/Programs/MiKTeX/tex/generic/babel/babel.sty" 1704647332 150008 7a05b0fdc0167c04e192003e780ab195 ""
   "C:/Users/amirh/AppData/Local/Programs/MiKTeX/tex/generic/babel/locale/es/babel-es.ini" 1704647334 4345 33a8cc6f0a7c6afcb84895b2c963a4e5 ""
@@ -26,6 +37,8 @@
   "C:/Users/amirh/AppData/Local/Programs/MiKTeX/tex/generic/iftex/iftex.sty" 1643997108 7237 bdd120a32c8fdb4b433cf9ca2e7cd98a ""
   "C:/Users/amirh/AppData/Local/Programs/MiKTeX/tex/generic/iftex/ifvtex.sty" 1643997108 1057 525c2192b5febbd8c1f662c9468335bb ""
   "C:/Users/amirh/AppData/Local/Programs/MiKTeX/tex/latex/00miktex/epstopdf-sys.cfg" 1616067285 584 2a1075dd71571459f59146da9f7502ad ""
+  "C:/Users/amirh/AppData/Local/Programs/MiKTeX/tex/latex/apacite/apacite.sty" 1374952728 74455 966b0b8d2be774cb1d3a7f97b253b725 ""
+  "C:/Users/amirh/AppData/Local/Programs/MiKTeX/tex/latex/apacite/spanish.apc" 1374952728 9950 288c60a2b42c1bd3c1f1275917444092 ""
   "C:/Users/amirh/AppData/Local/Programs/MiKTeX/tex/latex/arabi/bblopts.cfg" 1705750854 902 c30e5c373bc58bde21f8f63a3091626f ""
   "C:/Users/amirh/AppData/Local/Programs/MiKTeX/tex/latex/babel-spanish/spanish.ldf" 1622279580 26965 3b6d1655ad716f98e788b1fb9f2e87b8 ""
   "C:/Users/amirh/AppData/Local/Programs/MiKTeX/tex/latex/base/article.cls" 1705273579 20144 147463a6a579f4597269ef9565205cfe ""
@@ -42,10 +55,11 @@
   "C:/Users/amirh/AppData/Local/Programs/MiKTeX/tex/latex/graphics/trig.sty" 1665067579 4023 293ea1c16429fc0c4cf605f4da1791a9 ""
   "C:/Users/amirh/AppData/Local/Programs/MiKTeX/tex/latex/l3backend/l3backend-pdftex.def" 1704400941 30006 57b07afb710ee2f649c65cfbafda39c1 ""
   "C:/Users/amirh/AppData/Local/Programs/MiKTeX/tex/latex/placeins/placeins.sty" 1113865200 4087 636308456f60d2b31cbf97867db5708d ""
-  "anteproyecto.aux" 1760728955 1322 b33255c7a4c79ea58129fbee2a0277ff "pdflatex"
-  "anteproyecto.tex" 1760728952 7622 01e04fbf25b10b1ba29bd7eb75ee0b40 ""
-  "anteproyecto.toc" 1760728955 523 099e0eba1e44a2cd4881d008d64f3ff9 "pdflatex"
-  "c:/Users/amirh/tesis/anteproyecto.tex" 1760728952 7622 01e04fbf25b10b1ba29bd7eb75ee0b40 ""
+  "anteproyecto.aux" 1760729980 2250 0b2f69359729c2d8346c48d6c58d7526 "pdflatex"
+  "anteproyecto.bbl" 1760729982 2662 5d845866d3d986532b940951cc9260f5 "bibtex anteproyecto"
+  "anteproyecto.tex" 1760729971 9331 feed720d608293ffbd6443853239a474 ""
+  "anteproyecto.toc" 1760729980 566 92eed048f30401d83421bc4bf0eaa3d2 "pdflatex"
+  "c:/Users/amirh/tesis/anteproyecto.tex" 1760729971 9331 feed720d608293ffbd6443853239a474 ""
   "figura1.png" 1760721582 173374 e26bf13582f804a0e98a9112415d698f ""
   "figura2.png" 1760721582 178820 7651736b2ae098ae8ec073e4fac226ba ""
   (generated)

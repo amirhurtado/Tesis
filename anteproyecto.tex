@@ -8,6 +8,9 @@
 \usepackage{geometry} % Para configurar márgenes
 \usepackage{graphicx} % Para incluir imágenes
 \usepackage{placeins} 
+\usepackage{apacite}
+\bibliographystyle{apacite}
+
 
 % Configuración de márgenes
 \geometry{left=2.5cm, right=2.5cm, top=3cm, bottom=3cm}
@@ -86,9 +89,14 @@ El objetivo es ofrecer a estudiantes y docentes un recurso que traduzca las oper
 % --- PLANTEAMIENTO DEL PROBLEMA ---
 \section{Planteamiento del problema}
 
-% --- Subsección de Antecedentes---
+% --- Subsección de Antecedentes ---
 \subsection{Antecedentes (Contextualización del problema)}
-La enseñanza de la Arquitectura de Computadores presenta desafios pedagógicos bien documentados en la literatura académica... (el resto del texto de antecedentes va aquí, sin cambios) ...para mejorar significativamente la experiencia educativa en esta área fundamental.
+La enseñanza de la Arquitectura de Computadores presenta desafios pedagógicos bien documentados en la literatura académica. Uno de los principales retos identificados es la dificultad para conectar la teoría con la práctica (Bridging Theory and Practice). Los estudiantes a menudo luchan por trasladar el conocimiento teórico a una aplicación tangible, lo que dificulta la comprensión de cómo se ejecutan los programas a nivel de sistema. Para abordar esto, varios autores proponen el uso de sistemas interactivos y laboratorios de aprendizaje asistido por computador (CAL) que permiten a los estudiantes visualizar la ejecución de programas e inspeccionar los detalles de implementación hasta el nivel de transferencia de registros (\cite{djordjevic2008}, \cite{oztekin2011}).
+
+Otro desafio clave es la comprensión conceptual (Conceptual Understanding) de sistemas que son complejos e intangibles. Investigaciones señalan que muchos estudiantes, incluso de ciencias de la computación, tienen ideas erróneas fundamentales sobre cómo funcionan realmente los programas, un problema que requiere atención desde el diseño del currículo (\cite{senske2014}). En este contexto, el uso de herramientas de visualización de la ejecución se ha propuesto como una solución efectiva para ayudar a los estudiantes a comprender estos sistemas (\cite{oztekin2011}).
+
+Por lo tanto, la literatura académica no solo confirma la existencia de estas barreras de aprendizaje, sino que también respalda el desarrollo de herramientas interactivas y visuales, como la propuesta en este proyecto, como un camino viable para mejorar significativamente la experiencia educativa en esta área fundamental.
+
 
 % --- Subsección de Causas  ---
 \subsection{Causas (qué está causando el problema)}
@@ -127,6 +135,9 @@ De no abordarse este problema, las consecuencias afectan a múltiples niveles. P
 
 
 
+\newpage % Para que la bibliografía empiece en una página nueva
+\bibliographystyle{plain} % Estilo de la bibliografía (hay muchos)
+\bibliography{referencias.bib} % Le dice a LaTeX que use el archivo "referencias.bib"
 \end{document}
 
 
