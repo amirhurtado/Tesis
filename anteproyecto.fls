@@ -67,7 +67,15 @@ INPUT C:\Users\amirh\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy10.tf
 INPUT C:\Users\amirh\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmtt12.tfm
 OUTPUT anteproyecto.pdf
 INPUT C:\Users\amirh\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
+INPUT C:\Users\amirh\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr17.tfm
+INPUT C:\Users\amirh\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
+INPUT .\anteproyecto.toc
+INPUT .\anteproyecto.toc
+INPUT anteproyecto.toc
+OUTPUT anteproyecto.toc
 INPUT anteproyecto.aux
+INPUT C:\Users\amirh\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
+INPUT C:\Users\amirh\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
 INPUT C:\Users\amirh\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
 INPUT C:\Users\amirh\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
 INPUT C:\Users\amirh\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr17.pfb

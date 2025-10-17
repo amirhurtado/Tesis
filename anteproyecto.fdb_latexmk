@@ -1,12 +1,14 @@
 # Fdb version 4
-["pdflatex"] 1760721648.95359 "c:/Users/amirh/tesis/anteproyecto.tex" "anteproyecto.pdf" "anteproyecto" 1760721649.76421 0
+["pdflatex"] 1760722143.64548 "c:/Users/amirh/tesis/anteproyecto.tex" "anteproyecto.pdf" "anteproyecto" 1760722144.52609 0
   "C:/Users/amirh/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1760721647 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/amirh/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1760721571 24225047 5effeceff6ff7a572fb64ebd08da9df0 ""
+  "C:/Users/amirh/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmbx12.tfm" 1136765053 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "C:/Users/amirh/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmmi12.tfm" 1136765053 1524 4414a8315f39513458b80dfc63bff03a ""
   "C:/Users/amirh/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmr12.tfm" 1136765053 1288 655e228510b4c2a1abe905c368440826 ""
   "C:/Users/amirh/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmr17.tfm" 1136765053 1292 296a67155bdbfc32aa9c636f21e91433 ""
   "C:/Users/amirh/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmsy10.tfm" 1136765053 1124 6c73e740cf17375f03eec0ee63599741 ""
   "C:/Users/amirh/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmtt12.tfm" 1136765053 772 9a936b7f5e2ff0557fce0f62822f0bbf ""
+  "C:/Users/amirh/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1247596666 32080 340ef9bf63678554ee606688e7b5339d ""
   "C:/Users/amirh/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1247596667 32722 d7379af29a190c3f453aba36302ff5a9 ""
   "C:/Users/amirh/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb" 1247596666 32362 bc3f3eec7ab7d65fe700963d4017d32c ""
   "C:/Users/amirh/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb" 1247596666 24252 1e4e051947e12dfb50fee0b7f4e26e3a ""
@@ -33,11 +35,13 @@
   "C:/Users/amirh/AppData/Local/Programs/MiKTeX/tex/latex/graphics/keyval.sty" 1665067579 2671 7e67d78d9b88c845599a85b2d41f2e39 ""
   "C:/Users/amirh/AppData/Local/Programs/MiKTeX/tex/latex/graphics/trig.sty" 1665067579 4023 293ea1c16429fc0c4cf605f4da1791a9 ""
   "C:/Users/amirh/AppData/Local/Programs/MiKTeX/tex/latex/l3backend/l3backend-pdftex.def" 1704400941 30006 57b07afb710ee2f649c65cfbafda39c1 ""
-  "anteproyecto.aux" 1760721649 194 72658fb03bfd53fc103956ba2036b889 "pdflatex"
-  "anteproyecto.tex" 1760720608 1045 da7dff4de8311e31e6b30ec5d14dd970 ""
-  "c:/Users/amirh/tesis/anteproyecto.tex" 1760720608 1045 da7dff4de8311e31e6b30ec5d14dd970 ""
+  "anteproyecto.aux" 1760722144 194 05eaff20a35224c0a0d2a9aceff1100f "pdflatex"
+  "anteproyecto.tex" 1760722142 1097 0ab49e351d56ac22ec7826edd79e732f ""
+  "anteproyecto.toc" 1760722144 30 1bb04962d39b6bda471ac6c46ce13f85 "pdflatex"
+  "c:/Users/amirh/tesis/anteproyecto.tex" 1760722142 1097 0ab49e351d56ac22ec7826edd79e732f ""
   (generated)
   "anteproyecto.aux"
   "anteproyecto.log"
   "anteproyecto.pdf"
+  "anteproyecto.toc"
   (rewritten before read)
