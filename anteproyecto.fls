@@ -72,6 +72,7 @@ INPUT C:\Users\amirh\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tf
 INPUT .\anteproyecto.toc
 INPUT .\anteproyecto.toc
 INPUT anteproyecto.toc
+INPUT C:\Users\amirh\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
 OUTPUT anteproyecto.toc
 INPUT anteproyecto.aux
 INPUT C:\Users\amirh\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb

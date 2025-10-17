@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1760722143.64548 "c:/Users/amirh/tesis/anteproyecto.tex" "anteproyecto.pdf" "anteproyecto" 1760722144.52609 0
+["pdflatex"] 1760722445.2546 "c:/Users/amirh/tesis/anteproyecto.tex" "anteproyecto.pdf" "anteproyecto" 1760722446.23942 0
   "C:/Users/amirh/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1760721647 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/amirh/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1760721571 24225047 5effeceff6ff7a572fb64ebd08da9df0 ""
   "C:/Users/amirh/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmbx12.tfm" 1136765053 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -35,10 +35,10 @@
   "C:/Users/amirh/AppData/Local/Programs/MiKTeX/tex/latex/graphics/keyval.sty" 1665067579 2671 7e67d78d9b88c845599a85b2d41f2e39 ""
   "C:/Users/amirh/AppData/Local/Programs/MiKTeX/tex/latex/graphics/trig.sty" 1665067579 4023 293ea1c16429fc0c4cf605f4da1791a9 ""
   "C:/Users/amirh/AppData/Local/Programs/MiKTeX/tex/latex/l3backend/l3backend-pdftex.def" 1704400941 30006 57b07afb710ee2f649c65cfbafda39c1 ""
-  "anteproyecto.aux" 1760722144 194 05eaff20a35224c0a0d2a9aceff1100f "pdflatex"
-  "anteproyecto.tex" 1760722142 1097 0ab49e351d56ac22ec7826edd79e732f ""
-  "anteproyecto.toc" 1760722144 30 1bb04962d39b6bda471ac6c46ce13f85 "pdflatex"
-  "c:/Users/amirh/tesis/anteproyecto.tex" 1760722142 1097 0ab49e351d56ac22ec7826edd79e732f ""
+  "anteproyecto.aux" 1760722446 295 24ad341e19f12d8c71e659c50c02dcb3 "pdflatex"
+  "anteproyecto.tex" 1760722443 2449 33069a6e2174ab78a435b89db8a805b8 ""
+  "anteproyecto.toc" 1760722446 90 ba46ecb5df2ff7613995039295e13029 "pdflatex"
+  "c:/Users/amirh/tesis/anteproyecto.tex" 1760722443 2449 33069a6e2174ab78a435b89db8a805b8 ""
   (generated)
   "anteproyecto.aux"
   "anteproyecto.log"
