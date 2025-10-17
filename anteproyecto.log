@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.10.17)  17 OCT 2025 14:39
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.10.17)  17 OCT 2025 14:48
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -91,37 +91,35 @@ File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
 \Gin@req@width=\dimen151
 ) (C:\Users\amirh\AppData\Local\Programs\MiKTeX\tex/latex/placeins\placeins.sty
 Package: placeins 2005/04/18  v 2.2
-) (C:\Users\amirh\AppData\Local\Programs\MiKTeX\tex/latex/apacite\apacite.sty
-Package: apacite 2013/07/21 v6.03 APA citation
-\c@BibCnt=\count267
-\bibleftmargin=\skip50
-\bibindent=\skip51
-\bibparsep=\skip52
-\bibitemsep=\skip53
-\biblabelsep=\skip54
+) (C:\Users\amirh\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 ) (C:\Users\amirh\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count268
+\l__color_backend_stack_int=\count267
 \l__pdf_internal_box=\box51
-) (anteproyecto.aux)
+) (anteproyecto.aux
+LaTeX Info: Redefining \. on input line 8.
+LaTeX Info: Redefining \% on input line 8.
+)
 \openout1 = `anteproyecto.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Info: Redefining \. on input line 25.
-LaTeX Info: Redefining \% on input line 25.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Info: Redefining \. on input line 16.
+LaTeX Info: Redefining \% on input line 16.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -159,16 +157,16 @@ LaTeX Info: Redefining \% on input line 25.
 
 (C:\Users\amirh\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count269
+\scratchcounter=\count268
 \scratchdimen=\dimen152
 \scratchbox=\box52
-\nofMPsegments=\count270
-\nofMParguments=\count271
+\nofMPsegments=\count269
+\nofMParguments=\count270
 \everyMPshowfont=\toks22
-\MPscratchCnt=\count272
+\MPscratchCnt=\count271
 \MPscratchDim=\dimen153
-\MPnumerator=\count273
-\makeMPintoPDFobject=\count274
+\MPnumerator=\count272
+\makeMPintoPDFobject=\count273
 \everyMPtoPDFconversion=\toks23
 ) (C:\Users\amirh\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -176,83 +174,57 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
  (C:\Users\amirh\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-\c@maskedRefs=\count275
- (C:\Users\amirh\AppData\Local\Programs\MiKTeX\tex/latex/apacite\spanish.apc
-File: spanish.apc 2013/07/21 v6.03 apacite language file
-LaTeX Info: Redefining \BPBI on input line 138.
-LaTeX Info: Redefining \BHBI on input line 139.
-) [1
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 37.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 37.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 37.
+ [1
 
-{C:/Users/amirh/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] [2]
-No file anteproyecto.toc.
+{C:/Users/amirh/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] [2] (anteproyecto.toc
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+)
 \tf@toc=\write3
 \openout3 = `anteproyecto.toc'.
 
-[1]
-
-LaTeX Warning: Citation `djordjevic2008' undefined on input line 94.
-
-
-LaTeX Warning: Citation `oztekin2011' undefined on input line 94.
-
-
-LaTeX Warning: Citation `senske2014' undefined on input line 96.
-
-[2]
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 103.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 103.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 103.
-
-
-LaTeX Warning: Reference `fig:grafico1' on page 3 undefined on input line 103.
-
-<figura1.png, id=17, 2006.49625pt x 910.40125pt>
+ [1] [2]
+<figura1.png, id=18, 2006.49625pt x 910.40125pt>
 File: figura1.png Graphic file (type png)
 <use figura1.png>
-Package pdftex.def Info: figura1.png  used on input line 107.
+Package pdftex.def Info: figura1.png  used on input line 88.
 (pdftex.def)             Requested size: 330.42041pt x 149.918pt.
-
-LaTeX Warning: Reference `fig:grafico2' on page 3 undefined on input line 115.
-
-<figura2.png, id=19, 2006.49625pt x 910.40125pt>
+<figura2.png, id=20, 2006.49625pt x 910.40125pt>
 File: figura2.png Graphic file (type png)
 <use figura2.png>
-Package pdftex.def Info: figura2.png  used on input line 119.
+Package pdftex.def Info: figura2.png  used on input line 97.
 (pdftex.def)             Requested size: 377.62642pt x 171.33882pt.
+
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[3 <./figura1.png>] [4 <./figura2.png>] (anteproyecto.bbl) [5] (anteproyecto.aux
-LaTeX Info: Redefining \. on input line 9.
-LaTeX Info: Redefining \% on input line 9.
+[3 <./figura1.png>] [4 <./figura2.png>] [5] [6] [7] (anteproyecto.bbl) [8] (anteproyecto.aux
+LaTeX Info: Redefining \. on input line 8.
+LaTeX Info: Redefining \% on input line 8.
 )
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
  ***********
-
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
  ) 
 Here is how much of TeX's memory you used:
- 3876 strings out of 474486
- 63686 string characters out of 5743754
- 1933542 words of memory out of 5000000
- 26145 multiletter control sequences out of 15000+600000
- 564480 words of font info for 57 fonts, out of 8000000 for 9000
+ 3530 strings out of 474486
+ 59215 string characters out of 5743754
+ 1935542 words of memory out of 5000000
+ 25799 multiletter control sequences out of 15000+600000
+ 564649 words of font info for 58 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,6n,65p,867b,365s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/amirh/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/amirh/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/amirh/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/amirh/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/amirh/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on anteproyecto.pdf (7 pages, 427485 bytes).
+ 57i,6n,65p,859b,365s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/amirh/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/amirh/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/amirh/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/amirh/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/amirh/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/amirh/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on anteproyecto.pdf (10 pages, 448339 bytes).
 PDF statistics:
- 56 PDF objects out of 1000 (max. 8388607)
+ 70 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 

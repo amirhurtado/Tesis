@@ -1,63 +1,48 @@
 This is BibTeX, Version 0.99d
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: anteproyecto.aux
-Reallocating 'name_of_file' (item size: 1) to 8 items.
-The style file: apacite.bst
-Illegal, another \bibstyle command---line 24 of file anteproyecto.aux
- : \bibstyle
- :          {plain}
-I'm skipping whatever remains of this command
-Reallocating 'name_of_file' (item size: 1) to 16 items.
-Reallocating 'glb_str_end' (item size: 4) to 20 items.
-Reallocating 'glb_str_ptr' (item size: 4) to 20 items.
-Reallocating 'global_strs' (item size: 1) to 4000000 items.
-Reallocating 'singl_function' (item size: 4) to 100 items.
-Reallocating 'wiz_functions' (item size: 4) to 6000 items.
-Reallocating 'singl_function' (item size: 4) to 100 items.
-Reallocating 'singl_function' (item size: 4) to 100 items.
-Reallocating 'wiz_functions' (item size: 4) to 9000 items.
-Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'name_of_file' (item size: 1) to 6 items.
+The style file: plain.bst
+Reallocating 'name_of_file' (item size: 1) to 12 items.
 Database file #1: referencias.bib
-apacite.bst [2013/07/21 v6.03 APA bibliography style]
-You've used 3 entries,
-            6951 wiz_defined-function locations,
-            1285 strings with 11405 characters,
-and the built_in function-call counts, 6690 in all, are:
-= -- 854
-> -- 52
-< -- 333
-+ -- 331
-- -- 6
-* -- 423
-:= -- 1244
-add.period$ -- 16
-call.type$ -- 3
-change.case$ -- 53
+You've used 10 entries,
+            2118 wiz_defined-function locations,
+            548 strings with 6121 characters,
+and the built_in function-call counts, 2823 in all, are:
+= -- 244
+> -- 138
+< -- 0
++ -- 54
+- -- 44
+* -- 155
+:= -- 483
+add.period$ -- 30
+call.type$ -- 10
+change.case$ -- 52
 chr.to.int$ -- 0
-cite$ -- 6
-duplicate$ -- 146
-empty$ -- 239
-format.name$ -- 87
-if$ -- 1249
+cite$ -- 10
+duplicate$ -- 133
+empty$ -- 269
+format.name$ -- 44
+if$ -- 595
 int.to.chr$ -- 0
-int.to.str$ -- 9
-missing$ -- 0
-newline$ -- 79
-num.names$ -- 24
-pop$ -- 153
+int.to.str$ -- 10
+missing$ -- 10
+newline$ -- 53
+num.names$ -- 20
+pop$ -- 82
 preamble$ -- 1
-purify$ -- 12
+purify$ -- 42
 quote$ -- 0
-skip$ -- 429
+skip$ -- 74
 stack$ -- 0
-substring$ -- 347
-swap$ -- 88
-text.length$ -- 6
+substring$ -- 75
+swap$ -- 18
+text.length$ -- 0
 text.prefix$ -- 0
-top$ -- 1
-type$ -- 368
+top$ -- 0
+type$ -- 40
 warning$ -- 0
-while$ -- 31
-width$ -- 0
-write$ -- 100
-(There was 1 error message)
+while$ -- 22
+width$ -- 12
+write$ -- 103

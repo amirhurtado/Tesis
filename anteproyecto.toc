@@ -3,6 +3,17 @@
 \contentsline {section}{\numberline {2}Planteamiento del problema}{2}{}%
 \contentsline {subsection}{\numberline {2.1}Antecedentes (Contextualización del problema)}{2}{}%
 \contentsline {subsection}{\numberline {2.2}Causas (qué está causando el problema)}{3}{}%
-\contentsline {subsection}{\numberline {2.3}Definición del problema}{3}{}%
+\contentsline {subsection}{\numberline {2.3}Definición del problema}{4}{}%
 \contentsline {subsection}{\numberline {2.4}Consecuencias (de no resolver el problema)}{4}{}%
-\contentsline {section}{Referencias}{5}{}%
+\contentsline {section}{\numberline {3}Justificación}{4}{}%
+\contentsline {subsection}{\numberline {3.1}Justificación Pedagógica y Académica}{5}{}%
+\contentsline {subsection}{\numberline {3.2}Justificación Tecnológica}{5}{}%
+\contentsline {subsection}{\numberline {3.3}Justificación Institucional}{5}{}%
+\contentsline {section}{\numberline {4}Objetivos}{6}{}%
+\contentsline {subsection}{\numberline {4.1}Objetivo General}{6}{}%
+\contentsline {subsection}{\numberline {4.2}Objetivos específicos}{6}{}%
+\contentsline {section}{\numberline {5}Marco Referencial}{6}{}%
+\contentsline {subsection}{\numberline {5.1}Marco Teórico}{6}{}%
+\contentsline {subsubsection}{\numberline {5.1.1}Arquitectura RISC-V}{6}{}%
+\contentsline {subsubsection}{\numberline {5.1.2}Procesador Segmentado (Pipelined)}{7}{}%
+\contentsline {subsection}{\numberline {5.2}Estado del Arte}{7}{}%

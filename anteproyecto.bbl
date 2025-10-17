@@ -1,94 +1,67 @@
-\begin{thebibliography}{}
+\begin{thebibliography}{10}
 
-\bibitem [\protect \citeauthoryear {%
-Djordjevic%
-, Nikolic%
-, Tanja%
-\BCBL {}\ \BBA {} Milenkovi{\'c}%
-}{%
-Djordjevic%
-\ \protect \BOthers {.}}{%
-{\protect \APACyear {2008}}%
-}]{%
-djordjevic2008}
-\APACinsertmetastar {%
-djordjevic2008}%
-\begin{APACrefauthors}%
-Djordjevic, J.%
-, Nikolic, B.%
-, Tanja, B.%
-\BCBL {}\ \BBA {} Milenkovi{\'c}, A.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2008}{}{}.
-\newblock
-{\BBOQ}\APACrefatitle {{Cal2: Computer aided learning in computer architecture
-  laboratory}} {{Cal2: Computer aided learning in computer architecture
-  laboratory}}.{\BBCQ}
-\newblock
-\APACjournalVolNumPages{Computer Applications in Engineering
-  Education}{16}{3}{199--207}.
-\PrintBackRefs{\CurrentBib}
+\bibitem{djordjevic2008}
+J~Djordjevic, B~Nikolic, B~Tanja, and A~Milenkovi{\'c}.
+\newblock {Cal2: Computer aided learning in computer architecture laboratory}.
+\newblock {\em Computer Applications in Engineering Education}, 16(3):199--207,
+  2008.
 
-\bibitem [\protect \citeauthoryear {%
-Oztekin%
-, Temurtas%
-\BCBL {}\ \BBA {} Gulbag%
-}{%
-Oztekin%
-\ \protect \BOthers {.}}{%
-{\protect \APACyear {2011}}%
-}]{%
-oztekin2011}
-\APACinsertmetastar {%
-oztekin2011}%
-\begin{APACrefauthors}%
-Oztekin, H.%
-, Temurtas, F.%
-\BCBL {}\ \BBA {} Gulbag, A.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2011}{}{}.
-\newblock
-{\BBOQ}\APACrefatitle {{A software-based interactive system on BZK.SAU.FPGA10.1
-  micro computer design for teaching computer architecture and organization}}
-  {{A software-based interactive system on BZK.SAU.FPGA10.1 micro computer
-  design for teaching computer architecture and organization}}.{\BBCQ}
-\newblock
-\BIn{} \APACrefbtitle {ELECO 2011 - 7th International Conference on Electrical
-  and Electronics Engineering.} {Eleco 2011 - 7th international conference on
-  electrical and electronics engineering.}
-\PrintBackRefs{\CurrentBib}
+\bibitem{giorgi2019}
+R~Giorgi and G~Mariotti.
+\newblock {WebriSC-V: A web-based education-oriented RISC-V pipeline simulation
+  environment}.
+\newblock In {\em Proceedings of the Workshop on Computer Architecture
+  Education, WCAE 2019}, 2019.
 
-\bibitem [\protect \citeauthoryear {%
-Senske%
-}{%
-Senske%
-}{%
-{\protect \APACyear {2014}}%
-}]{%
-senske2014}
-\APACinsertmetastar {%
-senske2014}%
-\begin{APACrefauthors}%
-Senske, N.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2014}{}{}.
-\newblock
-{\BBOQ}\APACrefatitle {{Confronting the challenges of computational design
-  instruction}} {{Confronting the challenges of computational design
-  instruction}}.{\BBCQ}
-\newblock
-\BIn{} \APACrefbtitle {Rethinking Comprehensive Design: Speculative
-  Counterculture - Proceedings of the 19th International Conference on
-  Computer-Aided Architectural Design Research in Asia, CAADRIA 2014.}
-  {Rethinking comprehensive design: Speculative counterculture - proceedings of
-  the 19th international conference on computer-aided architectural design
-  research in asia, caadria 2014.}
-\PrintBackRefs{\CurrentBib}
+\bibitem{ihtemam2024}
+R~M Ihtemam, R~Khan, and M~A Qayum.
+\newblock {Investigative analysis of three RISC-V microarchitectures in the
+  context of computer architecture research}.
+\newblock In {\em 2024 27th International Conference on Computer and
+  Information Technology, ICCIT 2024 - Proceedings}, 2024.
+
+\bibitem{khairullah2022}
+S~S Khairullah.
+\newblock {Realization of a 16-bit MIPS RISC pipeline processor}.
+\newblock In {\em HORA 2022 - 4th International Congress on Human-Computer
+  Interaction, Optimization and Robotic Applications, Proceedings}, 2022.
+
+\bibitem{krim2025}
+S~Krim and J~Porquet-Lupine.
+\newblock {VRV: A configurable and educational RISC-V simulator}.
+\newblock In {\em 2025 IEEE 18th International Symposium on Embedded
+  Multicore/Many-core Systems-on-Chip (MCSoC)}, 2025.
+
+\bibitem{mallidu2023}
+J~Mallidu and S~V Siddamal.
+\newblock {A survey on in-order 5-stage pipeline RISC-V processor
+  implementation}.
+\newblock {\em Lecture Notes in Networks and Systems}, 2023.
+
+\bibitem{oztekin2011}
+H~Oztekin, F~Temurtas, and A~Gulbag.
+\newblock {A software-based interactive system on BZK.SAU.FPGA10.1 micro
+  computer design for teaching computer architecture and organization}.
+\newblock In {\em ELECO 2011 - 7th International Conference on Electrical and
+  Electronics Engineering}, 2011.
+
+\bibitem{poojary2025}
+M~S Poojary and H~K Ravi.
+\newblock {Design of RV32I instruction set architecture}.
+\newblock In {\em International Conference on Smart Systems for Applications in
+  Electrical Sciences, ICSSES 2025}, 2025.
+
+\bibitem{senske2014}
+N~Senske.
+\newblock {Confronting the challenges of computational design instruction}.
+\newblock In {\em Rethinking Comprehensive Design: Speculative Counterculture -
+  Proceedings of the 19th International Conference on Computer-Aided
+  Architectural Design Research in Asia, CAADRIA 2014}, 2014.
+
+\bibitem{vollmar2007}
+K~Vollmar and P~Sanderson.
+\newblock {MARS: An education-oriented MIPS assembly language simulator}.
+\newblock In {\em Proceedings of the Thirty-Seventh SIGCSE Technical Symposium
+  on Computer Science Education}, 2007.
 
 \end{thebibliography}
