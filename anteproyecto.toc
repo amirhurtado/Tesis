@@ -23,5 +23,9 @@
 \contentsline {section}{\numberline {7}Marco Referencial}{9}{}%
 \contentsline {subsection}{\numberline {7.1}Marco Teórico}{9}{}%
 \contentsline {subsubsection}{\numberline {7.1.1}Arquitectura RISC-V}{9}{}%
-\contentsline {subsubsection}{\numberline {7.1.2}Procesador Segmentado (Pipelined)}{9}{}%
+\contentsline {subsubsection}{\numberline {7.1.2}Arquitecturas de Procesador}{9}{}%
+\contentsline {paragraph}{Procesador Monociclo (Single-Cycle)}{10}{}%
+\contentsline {paragraph}{Procesador Segmentado (Pipelined)}{10}{}%
+\contentsline {subsubsection}{\numberline {7.1.3}Extensiones de Visual Studio Code}{10}{}%
 \contentsline {subsection}{\numberline {7.2}Estado del Arte}{10}{}%
+\contentsline {subsection}{\numberline {7.3}Marco Conceptual}{11}{}%

@@ -224,7 +224,7 @@ A continuación, se desglosan las actividades principales derivadas de cada obje
 \end{itemize}
 
 
-% --- MARCO REFERENCIAL ---
+% --- MARCO REFERENCIAL (VERSIÓN CORREGIDA Y COMPLETA) ---
 \section{Marco Referencial}
 
 \subsection{Marco Teórico}
@@ -233,12 +233,42 @@ En este capítulo se definen los conceptos técnicos fundamentales que sustentan
 \subsubsection{Arquitectura RISC-V}
 RISC-V es una arquitectura de conjunto de instrucciones (ISA) basada en los principios de un computador con un conjunto reducido de instrucciones (RISC). A diferencia de otras arquitecturas comerciales, RISC-V es completamente gratuita y de código abierto, lo que permite una amplia adopción y personalización (\cite{poojary2025}). Su diseño es inherentemente modular, lo que significa que consiste en un conjunto base de instrucciones simples al que se le pueden añadir extensiones para funcionalidades específicas. Esta flexibilidad la hace ideal para una gran variedad de aplicaciones, desde pequeños sistemas embebidos hasta computadores de alto rendimiento (\cite{mallidu2023}).
 
-\subsubsection{Procesador Segmentado (Pipelined)}
+\subsubsection{Arquitecturas de Procesador}
+Para ejecutar las instrucciones de una arquitectura como RISC-V, un procesador debe seguir un modelo de implementación. Los dos modelos fundamentales para la enseñanza de la arquitectura de computadores son el monociclo y el segmentado.
+
+\paragraph{Procesador Monociclo (Single-Cycle)}
+Este diseño ejecuta cada instrucción en un único y largo ciclo de reloj. Su principal ventaja es la simplicidad, lo que facilita su comprensión inicial. Sin embargo, su rendimiento es bajo, ya que la duración del ciclo de reloj debe ajustarse a la instrucción más lenta, resultando en una menor frecuencia de operación y eficiencia (\cite{ihtemam2024}).
+
+\paragraph{Procesador Segmentado (Pipelined)}
 Esta arquitectura mejora drásticamente el rendimiento al dividir la ejecución de una instrucción en múltiples etapas más cortas que operan en paralelo, de forma similar a una línea de ensamblaje. El modelo clásico para RISC-V se divide en cinco etapas: 1. Búsqueda (Fetch), 2. Decodificación (Decode), 3. Ejecución (Execute), 4. Memoria (Memory) y 5. Escritura (Write Back) (\cite{khairullah2022}). Al permitir que varias instrucciones se procesen simultáneamente en diferentes etapas, se logra un rendimiento mucho mayor que en el diseño monociclo. No obstante, esta paralelismo introduce complejidades como los "riesgos" (hazards), que deben ser gestionados para asegurar el correcto funcionamiento (\cite{ihtemam2024}).
 
-\subsection{Estado del Arte}
-A continuación, se revisan otras herramientas de software que existen para enseñar arquitectura de computadores. Esto ayuda a entender por qué este proyecto es diferente y necesario. Herramientas como MARS (MIPS Assembler and Runtime Simulator), que es muy usada para enseñar la arquitectura MIPS, tienen una interfaz llena de información que puede confundir a un principiante (\cite{vollmar2007}). Igualmente, programas más nuevos para RISC-V como VRV o la página web WebRISC-V, son muy potentes, pero para usarlos bien, el estudiante ya necesita entender qué significa cada cosa que ve en la pantalla (\cite{giorgi2019}, \cite{krim2025}).
+\subsubsection{Extensiones de Visual Studio Code}
+Visual Studio Code (VS Code) es un editor de código fuente desarrollado por Microsoft que se ha convertido en un estándar en la industria. Su poder reside en su ecosistema de extensiones. Estas son aplicaciones que se instalan dentro del editor para añadir nuevas funcionalidades, como soporte para lenguajes, herramientas de depuración o, como en este proyecto, paneles visuales e interactivos. Esta capacidad de extensión permite crear herramientas educativas que se integran directamente en el entorno de trabajo que los estudiantes ya utilizan.
 
+\subsection{Estado del Arte}
+A continuación, se revisan otras herramientas de software que existen para enseñar arquitectura de computadores. Esto ayuda a entender por qué este proyecto es diferente y necesario.
+
+Muchos de los simuladores que existen hoy en día son muy completos, pero asumen que el estudiante ya sabe bastante sobre el tema. Por ejemplo, herramientas como MARS (MIPS Assembler and Runtime Simulator), que es muy usada para enseñar la arquitectura MIPS, tienen una interfaz llena de información que puede confundir a un principiante (\cite{vollmar2007}). Igualmente, programas más nuevos para RISC-V como VRV o la página web WebRISC-V, son muy potentes, pero para usarlos bien, el estudiante ya necesita entender qué significa cada cosa que ve en la pantalla (\cite{giorgi2019}).
+
+El problema principal de estas herramientas no es lo que hacen, sino lo difícil que es aprender a usarlas. Están hechas para que alguien pueda revisar y encontrar errores, no para que alguien que no tiene buenas bases pueda entender las ideas desde cero. Así, el estudiante tiene dos trabajos: entender los conceptos dificiles de la materia y, además, aprender a manejar un programa complicado.
+
+Este proyecto fue creado para solucionar ese problema. Nuestra propuesta es diferente porque le da más importancia a que sea fácil de usar y muy visual, en lugar de llenarla de funciones complejas. El objetivo no es hacer otro simulador para expertos, sino una herramienta para empezar, donde la interacción te guíe para aprender. Con una interfaz gráfica interactiva y pensada para principiantes, un estudiante podrá, sin mucha explicación previa, cargar un programa y ver de forma clara cómo se mueven los datos, qué registros cambian y qué partes del procesador se activan en cada paso.
+
+En resumen, mientras las herramientas que ya existen responden a la pregunta "¿Mi código está bien?", esta propuesta busca responder la pregunta que realmente tiene el estudiante: "¿Cómo funciona un procesador internamente?".
+
+\subsection{Marco Conceptual}
+A continuación, se definen los términos clave utilizados a lo largo de este documento para establecer un entendimiento común del dominio del problema y la solución propuesta.
+\begin{itemize}
+    \item \textbf{Simulador:} Software que imita el comportamiento y el funcionamiento interno de un sistema real, en este caso, un procesador de computador.
+    \item \textbf{Extensión de VS Code:} Un pequeño programa que se instala dentro del editor de código Visual Studio Code para añadirle nuevas herramientas o funcionalidades, como el simulador propuesto.
+    \item \textbf{RISC-V:} Una arquitectura de conjunto de instrucciones (ISA) de código abierto. Es el "manual de reglas" que le dice al procesador qué operaciones puede realizar y cómo están codificadas.
+    \item \textbf{Arquitectura Monociclo:} Un diseño de procesador en el que cada instrucción se ejecuta por completo en un único ciclo de reloj. Es un modelo simple, ideal para fines educativos.
+    \item \textbf{Arquitectura Segmentada (Pipeline):} Un diseño de procesador que divide la ejecución de una instrucción en varias etapas. Permite que múltiples instrucciones se procesen al mismo tiempo, mejorando significativamente el rendimiento.
+    \item \textbf{Ruta de Datos (Datapath):} Conjunto de componentes de hardware dentro del procesador (como la ALU y los registros) que realizan las operaciones y procesan los datos.
+    \item \textbf{Registros:} Pequeñas unidades de memoria de alta velocidad ubicadas dentro del procesador que se utilizan para almacenar temporalmente datos e instrucciones durante la ejecución.
+    \item \textbf{Unidad de Control:} El componente del procesador que lee las instrucciones del programa y genera las señales de control para dirigir las operaciones de la Ruta de Datos.
+    \item \textbf{Visualización Interactiva:} La representación gráfica del estado interno del procesador (registros, memoria, etc.) que se actualiza en tiempo real y que permite al usuario controlar la simulación paso a paso.
+\end{itemize}
 
 % --- BIBLIOGRAFÍA ---
 \newpage
