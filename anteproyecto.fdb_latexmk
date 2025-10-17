@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex anteproyecto"] 1760731660.24992 "anteproyecto.aux" "anteproyecto.bbl" "anteproyecto" 1760731688.74599 0
+["bibtex anteproyecto"] 1760731660.24992 "anteproyecto.aux" "anteproyecto.bbl" "anteproyecto" 1760731876.19617 0
   "./referencias.bib" 1760731410 2968 3807956dc43ce911eb949d41a19163b2 ""
   "C:/Users/amirh/AppData/Local/Programs/MiKTeX/bibtex/bst/bibtex/plain.bst" 1291864736 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
-  "anteproyecto.aux" 1760731687 4892 c8efef5be318bf483d43c7ab4afa37b9 "pdflatex"
+  "anteproyecto.aux" 1760731874 4892 c8efef5be318bf483d43c7ab4afa37b9 "pdflatex"
   (generated)
   "anteproyecto.bbl"
   "anteproyecto.blg"
   (rewritten before read)
-["pdflatex"] 1760731685.90734 "c:/Users/amirh/tesis/anteproyecto.tex" "anteproyecto.pdf" "anteproyecto" 1760731688.74688 0
+["pdflatex"] 1760731873.54647 "c:/Users/amirh/tesis/anteproyecto.tex" "anteproyecto.pdf" "anteproyecto" 1760731876.1971 0
   "C:/Users/amirh/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1760729703 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/amirh/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1200.pk" 1760730976 14064 c79dd227da8c1a63ae2def2d32c3bebf ""
   "C:/Users/amirh/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1760721571 24225047 5effeceff6ff7a572fb64ebd08da9df0 ""
@@ -57,11 +57,11 @@
   "C:/Users/amirh/AppData/Local/Programs/MiKTeX/tex/latex/l3backend/l3backend-pdftex.def" 1704400941 30006 57b07afb710ee2f649c65cfbafda39c1 ""
   "C:/Users/amirh/AppData/Local/Programs/MiKTeX/tex/latex/placeins/placeins.sty" 1113865200 4087 636308456f60d2b31cbf97867db5708d ""
   "C:/Users/amirh/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
-  "anteproyecto.aux" 1760731687 4892 c8efef5be318bf483d43c7ab4afa37b9 "pdflatex"
+  "anteproyecto.aux" 1760731874 4892 c8efef5be318bf483d43c7ab4afa37b9 "pdflatex"
   "anteproyecto.bbl" 1760731660 2767 d5263538363af53676eb39f5f3758178 "bibtex anteproyecto"
-  "anteproyecto.tex" 1760731684 27415 0a30fdcbe8fd68bd09253c3b46e663d5 ""
-  "anteproyecto.toc" 1760731687 2458 e4d3c359201e33b53b59b23c5e7f3771 "pdflatex"
-  "c:/Users/amirh/tesis/anteproyecto.tex" 1760731684 27415 0a30fdcbe8fd68bd09253c3b46e663d5 ""
+  "anteproyecto.tex" 1760731872 27412 422947da36acbb747ed4836db17b8c80 ""
+  "anteproyecto.toc" 1760731874 2458 e4d3c359201e33b53b59b23c5e7f3771 "pdflatex"
+  "c:/Users/amirh/tesis/anteproyecto.tex" 1760731872 27412 422947da36acbb747ed4836db17b8c80 ""
   "figura1.png" 1760721582 173374 e26bf13582f804a0e98a9112415d698f ""
   "figura2.png" 1760721582 178820 7651736b2ae098ae8ec073e4fac226ba ""
   (generated)
